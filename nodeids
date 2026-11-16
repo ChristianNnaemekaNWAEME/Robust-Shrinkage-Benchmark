@@ -1,0 +1,8 @@
+[
+  "tests/test_benchmark.py::test_contamination_count_and_clean_test",
+  "tests/test_benchmark.py::test_kl_factor_negative_without_clip",
+  "tests/test_benchmark.py::test_ols_recovers_clean_signal",
+  "tests/test_benchmark.py::test_reproducible",
+  "tests/test_benchmark.py::test_robust_selection_beats_lasso_selection_under_contamination",
+  "tests/test_benchmark.py::test_trimming_flags_outliers"
+]
